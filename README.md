@@ -20,7 +20,7 @@ Class → Chapter → Experiment selection → adjust parameters → watch anima
 
 ## Team
 - Krati — Streamlit UI + AI mentor integration
-- Himanshi & Uma — Physics animations (Pygame/Matplotlib)
+- Harshita & Uma — Physics animations (Pygame/Matplotlib)
 
 ## Setup Instructions
 \`\`\`bash
@@ -29,8 +29,7 @@ cd virtual-lab-director
 pip install -r requirements.txt
 streamlit run app.py
 \`\`\`
-## Demo
-(Add demo video link and live demo link here once ready)
+
 
 ## Demo
 (Add demo video link and live demo link here once ready)
